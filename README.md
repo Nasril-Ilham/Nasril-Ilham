@@ -1,4 +1,7 @@
-##                      Hi there 👋
+<div align="center">
+  
+# Hi there 🌟
 
-Saya seorang [WEB Developer & Mahasiswa Informatika] 
-yang sedang belajar dan membangun karir di dunia teknologi.
+<h3><font color="blue">Saya seorang WEB Developer & Mahasiswa Informatika yang sedang belajar dan membangun karir di dunia teknologi.</font></h3>
+
+</div>
